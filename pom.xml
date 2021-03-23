@@ -14,7 +14,7 @@
     </parent>
     <groupId>guru.springframework</groupId>
     <artifactId>sf-pet-clinic</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>sf-pet-clinic</name>
     <description>SF Pet Clinic Project</description>
     <properties>
@@ -47,6 +47,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/denisdnepr66/sf-pet-clinic.git</developerConnection>
+    <tag>sf-pet-clinic-0.0.1</tag>
   </scm>
 
 </project>
