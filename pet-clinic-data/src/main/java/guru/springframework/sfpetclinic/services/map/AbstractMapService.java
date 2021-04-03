@@ -1,6 +1,6 @@
-package guru.springframework.sfpetclinic.model.services.map;
+package guru.springframework.sfpetclinic.services.map;
 
-import guru.springframework.sfpetclinic.model.model.BaseEntity;
+import guru.springframework.sfpetclinic.model.BaseEntity;
 
 import java.util.*;
 
