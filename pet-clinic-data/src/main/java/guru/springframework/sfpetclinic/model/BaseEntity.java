@@ -1,9 +1,8 @@
 package guru.springframework.sfpetclinic.model;
 
-import org.springframework.data.annotation.Id;
-
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
+import javax.persistence.Id;
 import javax.persistence.MappedSuperclass;
 import java.io.Serializable;
 
@@ -17,7 +16,6 @@ public class BaseEntity implements Serializable {
     public Long getId() {
         return id;
     }
-
     public void setId(Long id) {
         this.id = id;
     }
